@@ -1,1 +1,1 @@
-<?php include_once("bootstrap.html"); ?>
+<?php include_once("s1lab.html"); ?>
