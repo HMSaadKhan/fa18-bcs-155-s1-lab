@@ -3,3 +3,6 @@
     color: #2982f0;
     white-space: nowrap;
 }
+.float-right{
+    float:right;
+}
