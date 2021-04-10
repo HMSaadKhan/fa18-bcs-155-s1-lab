@@ -2,7 +2,8 @@
 .header  {
     color: #2982f0;
     white-space: nowrap;
+    padding: 1rem ;
 }
 .float-right{
-    float:right;
+align-content: flex-end;
 }
